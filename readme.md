@@ -45,7 +45,7 @@ return [
 
 Enable dumper through config file and see every SQL query executed for current page.
 
-**Note:** Dumper will only render queries in any none production environment.
+**Note:** Dumper will only render queries in any non production environment.
 
 ##License
 

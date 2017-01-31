@@ -11,6 +11,6 @@ return [
    |
    */
 
-    'enabled' => env('APP_DISPLAY_SQL', true),
+    'enabled' => env('APP_DISPLAY_SQL', false),
 
 ];
