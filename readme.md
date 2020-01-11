@@ -1,3 +1,8 @@
+# Abandoned
+
+All good things come to an end. 
+Thanks everyone for using this package :) 
+
 # Laravel SQL Dumper
 Display SQL queries executed for current page.
 
@@ -47,6 +52,6 @@ Enable dumper through config file and see every SQL query executed for current p
 
 **Note:** Dumper will only render queries in any non production environment.
 
-##License
+## License
 
 This package is released under the MIT License.
